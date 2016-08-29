@@ -1,0 +1,19 @@
+.conteiner{
+    margin: 0 auto;
+    color: blue
+    width: 960px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    }
+
+.barra_sup {
+    border-bottom: solid lightgray 1px;
+}
+.barra_sup{
+    color: blue;
+    float: right;
+    padding-right: 20px;
+}
+
+.barra_sup input{
+    float: right;
+    margin-top: 30px;
